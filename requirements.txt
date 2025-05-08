@@ -3,3 +3,4 @@ numpy==2.1.3
 streamlit
 pip==25.0.1
 scikit-learn
+xgboost
